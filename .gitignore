@@ -1,0 +1,81 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Dependency directories
+node_modules/
+
+# Build outputs
+dist/
+build/
+
+# TypeScript
+*.tsbuildinfo
+
+# Environment variables
+.env
+.env.*.local
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*.swn
+*.swn1
+.DS_Store
+
+# macOS
+*.DS_Store
+
+# Linux and Unix
+*~
+
+# Temporary files
+*.tmp
+*.temp
+
+# Lint cache
+eslintcache
+
+# Coverage
+coverage/
+
+# Optional npm cache
+.npm/
+
+# Parcel cache
+.cache/
+
+# Logs from services
+*.log
+*.pid
+*.seed
+*.pid.lock
+
+# IntelliJ IDEA project files
+*.iml
+*.ipr
+*.iws
+
+# Sublime Text files
+*.sublime-workspace
+
+# VSCode settings
+.vscode/
+.history/
+*.code-workspace
+
+# EditorConfig backup
+*.bak
+
+# Yarn integrity file
+.yarn-integrity
+
+# Lock files
+yarn.lock
+package-lock.json
+pnpm-lock.yaml
