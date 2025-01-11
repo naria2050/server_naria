@@ -34,6 +34,11 @@
     "typescript-eslint": "^8.19.1"
   },
   "dependencies": {
-    "express": "^4.21.2"
+    "cookie-parser": "^1.4.7",
+    "crypto": "^1.0.1",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "nodemailer": "^6.9.16",
+    "path": "^0.12.7"
   }
 }
